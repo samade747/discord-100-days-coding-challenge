@@ -9,7 +9,12 @@ function App() {
   return (
     <NextUIProvider>
       
-        <Navigation />  
+      
+        
+      
+      
+      <h1>samad</h1>
+       
       
     </NextUIProvider>
   );
